@@ -8,7 +8,7 @@ This is an open way to software and open infrastructures ...
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - A Free Software company which is holding and maintaining @masscollabs and its subprojects
+🙋‍♀️ A short introduction - A Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects
 
 ## Free Software is all about Freedom of Speech
 
