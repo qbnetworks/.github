@@ -8,7 +8,15 @@ This is an open way to software and open infrastructures ...
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - A Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects
+QB Networks is a Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects
+
+* [QB Networks](https://qbnetworks.xyz)
+* [Masscollabs Services](https://masscollabs.xyz)
+* [Procyberian Systems Distribution](https://procyberian.xyz)
+* [Mass Collaboration Labs](https://masscollaborationlabs.xyz)
+* [amassivus](https://amassivus.xyz)
+* [Go Digitalist](https://godigitalist.xyz)
+* [Bilsege](https://bilsege.xyz)
 
 ## Free Software is all about Freedom of Speech
 
