@@ -1,14 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-We Masscollabs Services is leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness.
+We Masscollabs Services is leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures ...
 
-We have our own roadmap and which is why we say we are a Free Software project.
-
-This is an open way to software and open infrastructures ...
-
-**Here are some ideas to get you started:**
-
-QB Networks is a Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects
+QB Networks is a Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects ...
 
 * [QB Networks](https://qbnetworks.xyz)
 * [Masscollabs Services](https://masscollabs.xyz)
