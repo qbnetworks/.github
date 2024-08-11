@@ -16,7 +16,7 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 
 Please visit [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
 
-## Our approach to sponsors and parters
+## Our approach to sponsors and partners
 
 We ofcourse like to be partners with sponsors or other organizations that who want to get in touch with us. But our choice is "Free Software Business Model" and we only accept organizations for sponsorship who will write Free Software with us. And also we only accept organizations that we can give to technical support and other Free Software services.
 
