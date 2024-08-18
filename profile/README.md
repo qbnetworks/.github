@@ -24,6 +24,16 @@ Thanks for your understanding.
 
 happy hacking !
 
+## Security & Abuse Team
+
+We have been initialized our Abuse Team Email and it is abuse at qbnetworks dot xyz and our GPG Key ID: 0xA45FAA3685170E38 for encrypted emails.
+
+QB Networks Abuse Technical Support Account
+
+Run Free Software and Please do stay safe
+
+happy hacking !
+
 ## License
 
 QB Networks official GitHub README repository
