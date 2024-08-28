@@ -35,6 +35,10 @@ Run Free Software and Please do stay safe
 
 happy hacking !
 
+## Our Location
+
+Our domains are hosted in the DalNet data center.
+
 ## License
 
 QB Networks official GitHub README repository
