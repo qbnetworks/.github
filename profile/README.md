@@ -37,7 +37,7 @@ happy hacking !
 
 ## Our Location
 
-Our domains are hosted in the DalNet data center.
+Our domains are hosted in the [DalNet](https://www.dal.net.tr/) data center.
 
 ## License
 
