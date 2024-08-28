@@ -11,6 +11,7 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 * [amassivus](https://amassivus.xyz)
 * [Go Digitalist](https://godigitalist.xyz)
 * [Bilsege](https://bilsege.xyz)
+* [Birleşik Dergi](https://birlesik.xyz)
 
 ## Free Software is all about Freedom of Speech
 
@@ -51,6 +52,8 @@ Copyright (C) 2017-2025 amassivus and contributors
 Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
