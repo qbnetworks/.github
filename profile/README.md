@@ -21,7 +21,7 @@ Please visit [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/p
 
 ## The four essential freedoms
 
-* A program is free software if the program's users have the four essential freedoms: [1]
+A program is free software if the program's users have the four essential freedoms: 
 
 * The freedom to run the program as you wish, for any purpose (freedom 0).
 
