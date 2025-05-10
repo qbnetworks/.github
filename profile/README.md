@@ -53,6 +53,8 @@ happy hacking !
 
 Our domains are hosted in the [DalNet](https://www.dal.net.tr/) data center.
 
+Our [Masscollabs Services Forgejo Instance](https://source.masscollabs.xyz) is sponsored by [Plusclouds](https://plusclouds.com/us)
+
 ## License
 
 QB Networks official GitHub README repository
