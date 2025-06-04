@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Freedom to Explore and Conquer The Free Software by QB Networks](../img/qbnetworksred.png)
+![Freedom to Explore and Conquer The Free Software by QB Networks](../img/lead/collective_leadership.svg)
 
 We QB Networks and Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures ...
 
