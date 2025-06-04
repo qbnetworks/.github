@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Freedom to Explore and Conquer The Free Software by QB Networks](../img/lead/collective_leadership.svg)
+![Freedom to Explore and Conquer The Free Software by QB Networks](img/lead/collective_leadership.svg)
 
 We QB Networks and Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures ...
 
@@ -14,6 +14,8 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 * [Go Digitalist](https://godigitalist.xyz)
 * [Bilsege](https://bilsege.xyz)
 * [Birleşik Dergi](https://birlesik.xyz)
+* [exsay social media](https://www.exsay.xyz/)
+* [Açık Ağ Platformu( Open Network Platform)](https://www.acikag.xyz/)
 
 ## Free Software is all about Freedom of Speech
 
@@ -74,6 +76,10 @@ Copyright (C) 2024-2025 godigitalist and contributors
 Copyright (C) 2024-2025 bilsege and contributors
 
 Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
+Copyright (C) 2025 Exsay and contributors
+
+Copyright (C) 2025 Açık Ağ ve katkıcıları
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
