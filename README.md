@@ -26,6 +26,8 @@ Copyright (C) 2025 Exsay and contributors
 
 Copyright (C) 2025 Açık Ağ ve katkıcıları
 
+Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
 by the Free Software Foundation, either version 3 of the License, or
