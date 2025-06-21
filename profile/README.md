@@ -18,6 +18,49 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 * [Açık Ağ Platformu( Open Network Platform)](https://www.acikag.xyz/)
 * [Kernel R&D](https://cekirdek.xyz/)
 
+## QB Networks Ethics Declaration — *Principles with Inspirational Notes*
+
+## 1. **Human Dignity is Fundamental**
+We consider human dignity as the center of all our activities. Technology, data, software or decision solutions can never surpass humanity.
+
+*“No idea that does not defend humanity is legitimate.”* — **Aliya Izetbegovic**
+
+## 2. **Ethical Leadership Comes from Responsibility, Not Authority**
+We believe in a leadership approach that derives its decision-making power not from above, but from principle and accountability.
+
+*“A leader who underestimates his people is the grave digger of the country.”* — **Aliya Izetbegovic**
+
+## 3. **Pluralism is Strength**
+Different voices and disciplines, is not a conflict  but a wealth for us. We believe in listening and unifying dialogues.
+*“Differences are a law of God. To respect them is to be human.”* — **Aliya Izetbegovic**
+
+## 4. **Open Knowledge is a Common Wealth**
+Knowledge is a trust to be shared, not hidden. Openness is not only access, but also *virtuous production*.
+
+*“When knowledge ceases to be power and is combined with virtue, then civilization becomes.”* — **Aliya Izetbegovic**
+
+## 5. **Consultation with Society Combines with Decision**
+Every final decision may be in the hands of the founder, but the process is shaped by community. We want to build decision structures that is based on mutual learn, document and are open to contribution.
+
+*“Freedom is the right of only those who are willing to listen to others.”* — **Aliya Izetbegovic**
+
+## 6. **Balance of Freedom and Responsibility**
+For us, freedom is not lack of discipline, but a part of responsibility. We observe this balance both in code and in relationships.
+
+*“Man is free, but not irresponsible. Freedom without responsibility is anarchy.”* — **Aliya Izetbegovic**
+
+## 7. **Digital Justice and Accessibility**
+We design our technological solutions in a way that every individual can access. Justice begins digitally, we produce inclusivity, not discrimination.
+
+*“No justice is complete unless justice reaches everyone.”* — **Aliya Izetbegovic**
+
+## 8. **Principle Comes Before Profit**
+Profit can never take precedence over principle. Production without ethical compromise is our definition of sustainability.
+
+*“Profit without morality is another form of destruction.”* — **Aliya Izetbegovic**
+
+This structure represents not only the technical, but also the universal and human aspect of QB Networks.
+
 ## Free Software is all about Freedom of Speech
 
 Please visit [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
