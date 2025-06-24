@@ -18,48 +18,49 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 * [Açık Ağ Platformu( Open Network Platform)](https://www.acikag.xyz/)
 * [Kernel R&D](https://cekirdek.xyz/)
 
-## QB Networks Ethics Declaration — *Principles with Inspirational Notes*
+# QB Networks Ethical Declaration — Principles with Inspirational Notes
 
-## 1. **Human Dignity is Fundamental**
-We consider human dignity as the center of all our activities. Technology, data, software or decision solutions can never surpass humanity.
+1. **Human Dignity is Fundamental**  
+   All our activities center on human dignity. Technology, data, software, or decision-making mechanisms must never supersede humanity.  
+   *“A human is God’s vicegerent on earth; anything that harms them betrays the divine trust.”* — Prophet Muhammad (PBUH)
 
-*“No idea that does not defend humanity is legitimate.”* — **Aliya Izetbegovic**
+2. **Ethical Leadership Stems from Responsibility**  
+   Decision-making power comes not from authority but from integrity and accountability. Leadership finds meaning in serving the community.  
+   *“Leadership is about offering freedom to others.”* — Richard Stallman, Founder of the Free Software Movement
 
-## 2. **Ethical Leadership Comes from Responsibility, Not Authority**
-We believe in a leadership approach that derives its decision-making power not from above, but from principle and accountability.
+3. **Pluralism is Strength**  
+   Diverse voices and disciplines are not conflict but richness. We believe in a dialogue culture that listens and unites.  
+   *“Differences are God’s law. Respecting them is what makes us human.”* — Alija Izetbegović
 
-*“A leader who underestimates his people is the grave digger of the country.”* — **Aliya Izetbegovic**
+4. **Open Knowledge is a Shared Asset**  
+   Knowledge is not to be hoarded but shared. Openness means not just access but virtuous production.  
+   *“Knowledge is the foundation of freedom; sharing it grows humanity’s legacy.”* — Linus Torvalds, Linux Kernel Developer
 
-## 3. **Pluralism is Strength**
-Different voices and disciplines, is not a conflict  but a wealth for us. We believe in listening and unifying dialogues.
-*“Differences are a law of God. To respect them is to be human.”* — **Aliya Izetbegovic**
+5. **Consultation with Community Shapes Decisions**  
+   Final decisions may rest with the decision-maker, but the process is shaped by the community. We build open, learning, and participatory decision structures.  
+   *“A community’s strength lies in listening to every voice.”* — Eric S. Raymond, Open Source Software Advocate
 
-## 4. **Open Knowledge is a Common Wealth**
-Knowledge is a trust to be shared, not hidden. Openness is not only access, but also *virtuous production*.
+6. **Balance of Freedom and Responsibility**  
+   Freedom is not recklessness but a reflection of responsibility. We uphold this balance in code and relationships.  
+   *“Freedom is complete only when it respects the freedom of others.”* — Prophet Muhammad (PBUH)
 
-*“When knowledge ceases to be power and is combined with virtue, then civilization becomes.”* — **Aliya Izetbegovic**
+7. **Digital Justice and Accessibility**  
+   Our technological solutions must be accessible to all. Justice begins in the digital realm, fostering inclusion, not discrimination.  
+   *“Accessibility is the conscience of technology.”* — Tim Berners-Lee, Inventor of the World Wide Web
 
-## 5. **Consultation with Society Combines with Decision**
-Every final decision may be in the hands of the founder, but the process is shaped by community. We want to build decision structures that is based on mutual learn, document and are open to contribution.
+8. **Principles Precede Profit**  
+   Profit must never override principles. Ethical production is our definition of sustainability.  
+   *“Morality must be the compass of every decision.”* — Alija Izetbegović
 
-*“Freedom is the right of only those who are willing to listen to others.”* — **Aliya Izetbegovic**
+9. **Transparency Builds Trust**  
+   We are transparent in all our processes. Trust is built through openness and honesty.  
+   *“Transparency is the soul of a system; without it, nothing endures.”* — Julian Assange, WikiLeaks Founder
 
-## 6. **Balance of Freedom and Responsibility**
-For us, freedom is not lack of discipline, but a part of responsibility. We observe this balance both in code and in relationships.
+10. **Technology Serves Humanity**  
+    Technology is a tool for human welfare. Every innovation must benefit society.  
+    *“Technology should liberate humanity, not chain it.”* — Aaron Swartz, Open Access Activist
 
-*“Man is free, but not irresponsible. Freedom without responsibility is anarchy.”* — **Aliya Izetbegovic**
-
-## 7. **Digital Justice and Accessibility**
-We design our technological solutions in a way that every individual can access. Justice begins digitally, we produce inclusivity, not discrimination.
-
-*“No justice is complete unless justice reaches everyone.”* — **Aliya Izetbegovic**
-
-## 8. **Principle Comes Before Profit**
-Profit can never take precedence over principle. Production without ethical compromise is our definition of sustainability.
-
-*“Profit without morality is another form of destruction.”* — **Aliya Izetbegovic**
-
-This structure represents not only the technical, but also the universal and human aspect of QB Networks.
+This framework represents QB Networks’ technical, philosophical, and humanistic vision.
 
 ## Free Software is all about Freedom of Speech
 
