@@ -17,6 +17,7 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 * [exsay social media](https://www.exsay.xyz/)
 * [Açık Ağ Platformu( Open Network Platform)](https://www.acikag.xyz/)
 * [Kernel R&D](https://cekirdek.xyz/)
+* [The Go Game Network](https://www.thegonetwork.xyz/)
 
 # QB Networks Ethical Declaration — Principles with Inspirational Notes
 
