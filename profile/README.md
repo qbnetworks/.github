@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Freedom to Explore and Conquer The Free Software by QB Networks](../img/lead/collective_leadership.svg)
+![Freedom to Explore and Conquer The Free Software by QB Networks](img/lead/collective_leadership.svg)
 
 We QB Networks and Masscollabs Services are leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures ...
 
@@ -9,15 +9,6 @@ QB Networks is a Free Software company which is holding and maintaining [Masscol
 * [QB Networks](https://qbnetworks.xyz)
 * [Masscollabs Services](https://masscollabs.xyz)
 * [Procyberian Systems Distribution](https://procyberian.xyz)
-* [Mass Collaboration Labs](https://masscollaborationlabs.xyz)
-* [amassivus](https://amassivus.xyz)
-* [Go Digitalist](https://godigitalist.xyz)
-* [Bilsege](https://bilsege.xyz)
-* [Birleşik Dergi](https://birlesik.xyz)
-* [exsay social media](https://www.exsay.xyz/)
-* [Açık Ağ Platformu( Open Network Platform)](https://www.acikag.xyz/)
-* [Kernel R&D](https://cekirdek.xyz/)
-* [The Go Game Network](https://www.thegonetwork.xyz/)
 
 # QB Networks Ethical Declaration — Principles with Inspirational Notes
 
