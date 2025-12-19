@@ -6,6 +6,10 @@ We QB Networks and Masscollabs Services are leading to Software, Hardware and Sc
 
 QB Networks is a Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects ...
 
+QB Networks is the umbrella organization for all related projects. This repository and associated domain names are owned by QB Networks.
+
+QB Networks is a federated umbrella organization for Free Software projects. All affiliated accounts and domain names belong to QB Networks.
+
 * [QB Networks](https://qbnetworks.xyz)
 * [Masscollabs Services](https://masscollabs.xyz)
 * [Procyberian Systems Distribution](https://procyberian.xyz)
@@ -117,29 +121,30 @@ Our [Masscollabs Services Forgejo Instance](https://source.masscollabs.xyz) is s
 
 QB Networks official GitHub README repository
 
-Copyright (C) 2024-2025 QB Networks
 
-Copyright (C) 2017-2025 Masscollabs Services
+Copyright (C) 2024-2026 QB Networks
 
-Copyright (C) 2017-2025 Procyberian and contributors
+Copyright (C) 2017-2026 Masscollabs Services
 
-Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+Copyright (C) 2017-2026 PSD Authors
 
-Copyright (C) 2017-2025 amassivus and contributors
+Copyright (C) 2017-2026 Mass Collaboration Labs and contributors
 
-Copyright (C) 2024-2025 godigitalist and contributors
+Copyright (C) 2017-2026 amassivus and contributors
 
-Copyright (C) 2024-2025 bilsege and contributors
+Copyright (C) 2024-2026 godigitalist and contributors
 
-Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+Copyright (C) 2024-2026 bilsege and contributors
 
-Copyright (C) 2025 Exsay and contributors
+Copyright (C) 2024-2026 Birleşik Dergi Yazarları
 
-Copyright (C) 2025 Açık Ağ ve katkıcıları
+Copyright (C) 2025-2026 Exsay and contributors
 
-Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+Copyright (C) 2025-2026 Açık Ağ ve katkıcıları
 
-Copyright (C) 2025 The Go Game Network
+Copyright (C) 2025-2026 cekirdek.xyz ve katkıcıları
+
+Copyright (C) 2025-2026 The Go Game Network
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
