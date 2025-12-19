@@ -9,7 +9,7 @@ You may obtain a copy of the license at: https://www.gnu.org/licenses/agpl-3.0.h
 
 The following entities and contributors hold copyright under the umbrella of **QB Networks**:
 
-- Copyright (C) 2024-20f26 QB Networks
+- Copyright (C) 2024-2026 QB Networks
 - Copyright (C) 2017-2026 Masscollabs Services 
 - Copyright (C) 2017–2026 PSD Authors
 - Copyright (C) 2017-2026 Mass Collaboration Labs
