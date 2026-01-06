@@ -6,14 +6,6 @@ We QB Networks and Masscollabs Services are leading to Software, Hardware and Sc
 
 QB Networks is a Free Software company which is holding and maintaining [Masscollabs Services](https://www.masscollabs.xyz) and its subprojects ...
 
-QB Networks is the umbrella organization for all related projects. This repository and associated domain names are owned by QB Networks.
-
-QB Networks is a federated umbrella organization for Free Software projects. All affiliated accounts and domain names belong to QB Networks.
-
-* [QB Networks](https://qbnetworks.xyz)
-* [Masscollabs Services](https://masscollabs.xyz)
-* [Procyberian Systems Distribution](https://procyberian.xyz)
-
 # QB Networks Ethical Declaration — Principles with Inspirational Notes
 
 1. **Human Dignity is Fundamental**  

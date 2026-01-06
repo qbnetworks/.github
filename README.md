@@ -2,10 +2,6 @@
 
 QB Networks official GitHub README repository
 
-QB Networks is the umbrella organization for all related projects. This repository and associated domain names are owned by QB Networks.
-
-QB Networks is a federated umbrella organization for Free Software projects. All affiliated accounts and domain names belong to QB Networks.
-
 ## License
 
 QB Networks official GitHub README repository
